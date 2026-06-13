@@ -44,7 +44,7 @@ Once running, the tool:
 
 | Login | Configuration | Dashboard |
 |-------|--------------|-----------|
-| ![Login](assets/login.png) | ![Config](assets/configuration.png) | ![Dashboard](assets/Dashboard.png) |
+| ![Login](login.png) | ![Config](configuration.png) | ![Dashboard](Dashboard.png) |
 
 ---
 
@@ -236,23 +236,7 @@ Every action is recorded in `upload_log.txt` inside your watch folder:
 
 ---
 
-## Project Structure
 
-```
-autofile-transfer/
-    ├── AutoFileTransfer.py        ← main application
-    ├── logo.png                   ← application logo
-    ├── requirements.txt           ← python dependencies
-    ├── README.md                  ← this file
-    ├── SOP.pdf                    ← full installation and usage guide
-    ├── .gitignore                 ← git ignore rules
-    └── assets/
-        ├── screenshot_login.png
-        ├── screenshot_config.png
-        └── screenshot_dashboard.png
-```
-
----
 
 ## Author
 
