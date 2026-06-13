@@ -44,7 +44,7 @@ Once running, the tool:
 
 | Login | Configuration | Dashboard |
 |-------|--------------|-----------|
-| ![Login](assets/screenshot_login.png) | ![Config](assets/screenshot_config.png) | ![Dashboard](assets/screenshot_dashboard.png) |
+| ![Login](assets/login.png) | ![Config](assets/configuration.png) | ![Dashboard](assets/Dashboard.png) |
 
 ---
 
