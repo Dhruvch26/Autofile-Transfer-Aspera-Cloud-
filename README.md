@@ -45,13 +45,11 @@ Once running, the tool:
 |-------|
 |![Login](login.png)| 
 
-| Configuration |
-|---------------|
-|![Config](Configuration.png)|
+| Configuration | Dashboard |
+|---------------|-----------|
+|![Config](Configuration.png)||![Dashboard](Dashboard.png)| 
 
-| Dashboard |
-|-----------|
-|![Dashboard](Dashboard.png)| 
+
 
 ---
 
