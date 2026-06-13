@@ -41,15 +41,9 @@ Once running, the tool:
 ## Screenshots
 
 
-| Login | 
-|-------|
-|![Login](login.png)| 
-
-| Configuration | Dashboard |
-|---------------|-----------|
-|![Config](Configuration.png)|![Dashboard](Dashboard.png)| 
-
-
+| Login | Configuration | Dashboard |
+|-------|---------------|-----------|
+|![Login](Login.png)|![Config](Configuration.png)|![Dashboard](Dashboard.png)| 
 
 ---
 
