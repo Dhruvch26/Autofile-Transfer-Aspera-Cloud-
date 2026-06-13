@@ -47,7 +47,7 @@ Once running, the tool:
 
 | Configuration |
 |---------------|
-|![Config](configuration.png)|
+|![Config](Configuration.png)|
 
 | Dashboard |
 |-----------|
