@@ -46,7 +46,8 @@ Once running, the tool:
 | ![Login](login.png) | ![Config](configuration.png) |
 
 | Dashboard |
-| ![Dashboard](Dashboard.png) |
+|-----------|
+|![Dashboard](Dashboard.png)| 
 
 ---
 
