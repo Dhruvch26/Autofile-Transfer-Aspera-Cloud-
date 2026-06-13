@@ -40,11 +40,13 @@ Once running, the tool:
 
 ## Screenshots
 
-> Add screenshots of all 3 screens here after first run
 
-| Login | Configuration | Dashboard |
-|-------|--------------|-----------|
-| ![Login](login.png) | ![Config](configuration.png) | ![Dashboard](Dashboard.png) |
+| Login | Configuration|
+|-------|--------------|
+| ![Login](login.png) | ![Config](configuration.png) |
+
+| Dashboard |
+| ![Dashboard](Dashboard.png) |
 
 ---
 
